@@ -1,1 +1,23 @@
-/* Copy and paste your CSS from CodePen into here */
+#title {
+    font-family: 'Cooper'
+  }
+  
+  #img-div {
+    padding: 10px;
+    background-color: #dedede
+  }
+  
+  #image {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+  }
+  
+  h3 {
+    color: red
+  }
